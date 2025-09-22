@@ -95,7 +95,7 @@ a:hover {
 }
 
 footer {
-    background: url(img/bg.jpg);
+    background: url(/img/bg.jpg);
     padding: 100px;
     margin-top: 120px;
 }
